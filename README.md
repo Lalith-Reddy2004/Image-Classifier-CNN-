@@ -3887,3 +3887,13 @@ Explainable AI (XAI) is a field of artificial intelligence that focuses on devel
 
 ----
 - *Logo created with* [*Brandmark*](https://app.brandmark.io/v3/)
+
+📞 Contact
+----------
+
+For any queries or suggestions, feel free to reach out:
+
+*   **👤 Name:** LALITH VARDHAN REDDY
+*   📧 **Email:** reddylalithvardhan@gmail.com
+*   💻 **GitHub:** [LALITH VARDHAN REDDY](https://github.com/Lalith-Reddy2004)
+*   🔗 **LinkedIn:** [LALITH VARDHAN REDDY](https://www.linkedin.com/in/lalithvardhan-reddy-bb0420272/)
